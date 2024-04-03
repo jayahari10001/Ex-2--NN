@@ -149,16 +149,20 @@ plt.show()
 
 # OUTPUT:
 
-Head Value:
+### Head Value:
+
 ![image](https://github.com/jayahari10001/Ex-2--NN/assets/115681467/f58acfb8-0310-42a4-af9d-e2224ec5e9cd)
 
-Iris Data:
+### Iris Data:
+
 ![image](https://github.com/jayahari10001/Ex-2--NN/assets/115681467/c4b6d570-027e-4d25-bc10-94c52c4465c4)
 
-Scatter Plot:
+### Scatter plot:
+
 ![image](https://github.com/jayahari10001/Ex-2--NN/assets/115681467/4d011c7d-1d0e-4d24-84d6-6b35b42fc35b)
 
-Error:
+### Error:
+
 ![image](https://github.com/jayahari10001/Ex-2--NN/assets/115681467/445cf401-2b43-494d-a734-5bcd0bc98a01)
 
 # RESULT:
