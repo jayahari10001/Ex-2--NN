@@ -1,6 +1,6 @@
 <H3>Name: JAYAHARI E</H3>
 <H3>Register no: 212221040065</H3>
-<H3>Date: 03/04/2024</H3>
+<H3>Date: 27.02.2024</H3>
 <H3>Experiment No. 2 </H3>
 ## Implementation of Perceptron for Binary Classification
 # AIM:
